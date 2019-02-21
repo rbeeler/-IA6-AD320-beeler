@@ -6,5 +6,4 @@ http.get(arg, function myCallback (response) {
   response.on('data', console.log);
   response.on('error', console.error);
 })
-
 .on('error', console.error);

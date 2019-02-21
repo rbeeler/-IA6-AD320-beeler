@@ -9,4 +9,5 @@ fs.readdir(arg, function callback(error, list){
           console.log(arg)
       }
   })
+  
 })
