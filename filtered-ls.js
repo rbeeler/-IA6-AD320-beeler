@@ -8,6 +8,5 @@ fs.readdir(arg, function callback(error, list){
       if (path.extname(arg) === ext) {
           console.log(arg)
       }
-  })
-  
+  })  
 })
